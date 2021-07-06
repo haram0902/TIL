@@ -1,3 +1,6 @@
+layout: page
+title: start
+permalink: /start/
 <html>
   <head>
     <title>TIL - haram0902</title>
